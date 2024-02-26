@@ -88,7 +88,7 @@ Task는 총 3가지로, 1. **[Segment Anything Model]**(Segmentation), 2. **[CAP
 - one-2345 실험
 - dreamgaussian 실험
 - Code 통합
-
+<div align="left">
 <br/>
 
 <br>
