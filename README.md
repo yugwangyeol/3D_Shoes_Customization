@@ -75,6 +75,7 @@ Task는 총 3가지로, 1. **[Segment Anything Model]**(Segmentation), 2. **[CAP
 ---|---|      
 
 <br/>
+
 ## 6. 팀원 및 담당 역할  
 
 <팀원>  
