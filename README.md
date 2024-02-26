@@ -79,10 +79,8 @@ Task는 총 3가지로, 1. **[Segment Anything Model]**(Segmentation), 2. **[CAP
 ## 6. 팀원 및 담당 역할  
 <div align="left">
 <팀원>  
-- 전공생 5명   
-
+- 전공생 5명  
 <br>
-  
 <담당 역할>    
 - SAM(Segment Anything Model) 실험 및 mask 생성
 - one-2345 실험
