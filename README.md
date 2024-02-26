@@ -77,7 +77,7 @@ Task는 총 3가지로, 1. **[Segment Anything Model]**(Segmentation), 2. **[CAP
 <br/>
 
 ## 6. 팀원 및 담당 역할  
-
+<div align="left">
 <팀원>  
 - 전공생 5명   
 
@@ -88,8 +88,6 @@ Task는 총 3가지로, 1. **[Segment Anything Model]**(Segmentation), 2. **[CAP
 - one-2345 실험
 - dreamgaussian 실험
 - Code 통합
-<div align="left">
-<br/>
 
 <br>
 
